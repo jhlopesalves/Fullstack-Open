@@ -1,5 +1,5 @@
-# New Note Sequence Diagram
-
+New Note Sequence Diagram
+```
 sequenceDiagram
     participant browser
     participant server
@@ -36,3 +36,4 @@ sequenceDiagram
     deactivate server
 
     Note right of browser: The browser executes the callback function to render the updated notes list items
+```
