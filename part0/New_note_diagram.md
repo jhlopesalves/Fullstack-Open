@@ -1,4 +1,4 @@
-New Note Sequence Diagram
+# New Note Sequence Diagram
 ```
 sequenceDiagram
     participant browser
